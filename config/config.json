@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Tushar10$",
+    "database": "accredian",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
